@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\demo3\demo3\bin\Debug\netcoreapp3.1\demo3.exe
+C:\Users\hp\source\repos\demo3\demo3\bin\Debug\netcoreapp3.1\demo3.deps.json
+C:\Users\hp\source\repos\demo3\demo3\bin\Debug\netcoreapp3.1\demo3.runtimeconfig.json
+C:\Users\hp\source\repos\demo3\demo3\bin\Debug\netcoreapp3.1\demo3.runtimeconfig.dev.json
+C:\Users\hp\source\repos\demo3\demo3\bin\Debug\netcoreapp3.1\demo3.dll
+C:\Users\hp\source\repos\demo3\demo3\bin\Debug\netcoreapp3.1\demo3.pdb
+C:\Users\hp\source\repos\demo3\demo3\obj\Debug\netcoreapp3.1\demo3.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\demo3\demo3\obj\Debug\netcoreapp3.1\demo3.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\demo3\demo3\obj\Debug\netcoreapp3.1\demo3.AssemblyInfo.cs
+C:\Users\hp\source\repos\demo3\demo3\obj\Debug\netcoreapp3.1\demo3.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\demo3\demo3\obj\Debug\netcoreapp3.1\demo3.dll
+C:\Users\hp\source\repos\demo3\demo3\obj\Debug\netcoreapp3.1\demo3.pdb
+C:\Users\hp\source\repos\demo3\demo3\obj\Debug\netcoreapp3.1\demo3.genruntimeconfig.cache
